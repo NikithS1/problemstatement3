@@ -1,0 +1,8 @@
+D:\mphasis\Day 3\problemstatement3\problemstatement3\bin\Debug\problemstatement3.exe.config
+D:\mphasis\Day 3\problemstatement3\problemstatement3\bin\Debug\problemstatement3.exe
+D:\mphasis\Day 3\problemstatement3\problemstatement3\bin\Debug\problemstatement3.pdb
+D:\mphasis\Day 3\problemstatement3\problemstatement3\obj\Debug\problemstatement3.csproj.AssemblyReference.cache
+D:\mphasis\Day 3\problemstatement3\problemstatement3\obj\Debug\problemstatement3.csproj.SuggestedBindingRedirects.cache
+D:\mphasis\Day 3\problemstatement3\problemstatement3\obj\Debug\problemstatement3.csproj.CoreCompileInputs.cache
+D:\mphasis\Day 3\problemstatement3\problemstatement3\obj\Debug\problemstatement3.exe
+D:\mphasis\Day 3\problemstatement3\problemstatement3\obj\Debug\problemstatement3.pdb
